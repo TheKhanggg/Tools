@@ -1,4 +1,4 @@
-#Tool
+# Tool
 * **Tự Động Lưu Cấu Hình:** Ghi nhớ thư mục lưu mặc định và chế độ giao diện cho lần mở tiếp theo.
 
 ---
