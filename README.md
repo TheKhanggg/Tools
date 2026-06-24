@@ -1,5 +1,5 @@
 # Tool
-# 📥 TikTok Downloader Pro
+# 📥 Multi Downloader Pro - v1.2.0
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
