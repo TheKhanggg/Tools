@@ -73,7 +73,7 @@ Chọn định dạng đầu ra mong muốn tại khu vực Chọn loại tải:
 Tại ô Thư mục lưu, bạn có thể để mặc định hoặc bấm 🗂️ Chọn để thay đổi nơi lưu file sau khi tải.
 
 Nhấp vào nút ⬇️ Tải về. Hệ thống sẽ kích hoạt tiến trình xử lý ẩn đa luồng (Multi-threading). Bạn có thể theo dõi tốc độ và phần trăm tải trực tiếp trên thanh Progress Bar. Khi hoàn tất, một hộp thoại thông báo thành công sẽ xuất hiện!
-
+```
 🛠️ Cấu hình phụ trợ (Không bắt buộc)
 Tính năng mở rộng: Tải Video Không Tiếng (Muted Video)
 Để sử dụng chức năng nâng cao loại bỏ âm thanh khỏi video, ứng dụng yêu cầu máy tính của bạn cài đặt công cụ liên kết FFmpeg:
@@ -91,4 +91,4 @@ Hiệu Năng Vượt Trội: Mọi tiến trình kết nối API và tải xuố
 
 Hỗ Trợ Cộng Đồng: Phiên bản đóng gói .exe này được chia sẻ hoàn toàn miễn phí. Chúc bạn có những trải nghiệm tuyệt vời nhất khi xây dựng kho tài nguyên đa phương tiện của mình!
 
-Bản quyền © 2026 bởi Phát triển viên. Trân trọng cảm ơn bạn đã tin tưởng sử dụng ứng dụng!
+  Bản quyền © 2026 bởi Reaper - TheKhanggg. Trân trọng cảm ơn bạn đã tin tưởng sử dụng ứng dụng!
