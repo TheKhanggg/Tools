@@ -23,6 +23,6 @@
 ---
 
 ## 📸 Giao diện ứng dụng
+<img width="970" height="888" alt="image" src="https://github.com/user-attachments/assets/743b6bc9-befb-43cf-9795-3de48a620fb3" />
 
-*(Mẹo: Bạn có thể chụp ảnh màn hình tool của mình, lưu vào thư mục dự án và chèn link ảnh vào đây để tăng tính trực quan)*
 
