@@ -22,7 +22,7 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
     <td><strong>Yêu cầu hệ thống</strong></td>
   </tr>
   <tr>
-    <td>📦 <strong>TikTok_Downloader_Pro.exe</strong></td>
+    <td>📦 <strong> Multi Downloader Pro v1.2.0</strong></td>
     <td><a href="https://github.com/TheKhanggg/Tools/releases/download/v1.2.0/Multi.Downloader.Pro.exe" target="_blank"><strong>📥 Tải xuống trực tiếp (.exe)</strong></a></td>
     <td>Windows 10 / 11 (64-bit)</td>
   </tr>
