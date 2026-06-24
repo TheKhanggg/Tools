@@ -1,9 +1,7 @@
 # Tools
 # 📥 TikTok Downloader Pro
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-darkblue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 **TikTok Downloader Pro** là một công cụ máy tính (Desktop App) mạnh mẽ, giao diện hiện đại được xây dựng dựa trên nền tảng **Python** và thư viện **CustomTkinter**. Phần mềm hỗ trợ tải video, âm thanh và slideshow ảnh từ TikTok với chất lượng cao nhất, hoàn toàn sạch watermark (logo/id) thông qua TikWM API tốc độ cao.
 
@@ -27,4 +25,4 @@
 ## 📸 Giao diện ứng dụng
 
 *(Mẹo: Bạn có thể chụp ảnh màn hình tool của mình, lưu vào thư mục dự án và chèn link ảnh vào đây để tăng tính trực quan)*
-```placehold
+
