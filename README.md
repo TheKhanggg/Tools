@@ -57,7 +57,7 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
 Truy cập vào ứng dụng TikTok (trên điện thoại hoặc trình duyệt máy tính), tìm đến video hoặc chuỗi ảnh slideshow bạn muốn tải. Nhấp vào nút Chia sẻ và chọn Sao chép liên kết (Copy link).
 
 🔹 Bước 2: Thiết lập trên Tool
-Mở file TikTok_Downloader_Pro.exe.
+Mở Multi Downloader Pro.
 
 Nhấp vào nút 📋 Paste trên giao diện, tool sẽ tự động dán liên kết từ bộ nhớ tạm của bạn vào ô nhập liệu một cách thông minh.
 
@@ -83,7 +83,7 @@ Tải FFmpeg bản dành cho Windows.
 Thêm đường dẫn chứa file ffmpeg.exe vào biến môi trường hệ thống (Environment Path). Tool sẽ tự động nhận diện và mở khóa tính năng này.
 
 🔒 Lời Kết & Cam Kết Bảo Mật
-TikTok Downloader Pro được phát triển với tiêu chí mang lại trải nghiệm quản lý tài nguyên nhanh chóng, gọn nhẹ và an toàn tuyệt đối cho người dùng:
+ Multi Downloader Pro được phát triển với tiêu chí mang lại trải nghiệm quản lý tài nguyên nhanh chóng, gọn nhẹ và an toàn tuyệt đối cho người dùng:
 
 An Toàn Tuyệt Đối: Ứng dụng hoạt động độc lập dưới dạng Portable (không cần cài đặt vào hệ thống), không yêu cầu quyền Administrator, không thu thập dữ liệu cá nhân, không chứa phần mềm độc hại (Malware/Virus) và hoàn toàn không yêu cầu đăng nhập tài khoản cá nhân của bạn.
 
