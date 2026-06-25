@@ -46,34 +46,7 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
 
 ---
 
-## 📖 Hướng Dẫn Sử Dụng Chi Tiết (Quick Start)
 
-Ứng dụng được thiết kế tối giản hóa mọi thao tác, bạn chỉ cần thực hiện 3 bước "thần tốc" sau:
-
-```text
- ──► [Bước 1: Copy Link] ──► [Bước 2: Chọn Định Dạng] ──► [Bước 3: Nhấn Tải Về]
-
-🔹 Bước 1: Sao chép liên kết TikTok
-Truy cập vào ứng dụng TikTok (trên điện thoại hoặc trình duyệt máy tính), tìm đến video hoặc chuỗi ảnh slideshow bạn muốn tải. Nhấp vào nút Chia sẻ và chọn Sao chép liên kết (Copy link).
-
-🔹 Bước 2: Thiết lập trên Tool
-Mở Multi Downloader Pro.
-
-Nhấp vào nút 📋 Paste trên giao diện, tool sẽ tự động dán liên kết từ bộ nhớ tạm của bạn vào ô nhập liệu một cách thông minh.
-
-Chọn định dạng đầu ra mong muốn tại khu vực Chọn loại tải:
-
-🎬 Video (có âm thanh): Tải trọn vẹn video, hoặc tải trọn bộ ảnh nếu link là Slideshow.
-
-🎵 Chỉ âm thanh (MP3): Chỉ trích xuất nhạc nền của video/slideshow đó.
-
-🔇 Video không tiếng: Tạo video tắt tiếng (Yêu cầu phụ trợ FFmpeg).
-
-🔹 Bước 3: Chỉ định nơi lưu & Bắt đầu tải
-Tại ô Thư mục lưu, bạn có thể để mặc định hoặc bấm 🗂️ Chọn để thay đổi nơi lưu file sau khi tải.
-
-Nhấp vào nút ⬇️ Tải về. Hệ thống sẽ kích hoạt tiến trình xử lý ẩn đa luồng (Multi-threading). Bạn có thể theo dõi tốc độ và phần trăm tải trực tiếp trên thanh Progress Bar. Khi hoàn tất, một hộp thoại thông báo thành công sẽ xuất hiện!
-```
 🛠️ Cấu hình phụ trợ (Không bắt buộc)
 Tính năng mở rộng: Tải Video Không Tiếng (Muted Video)
 Để sử dụng chức năng nâng cao loại bỏ âm thanh khỏi video, ứng dụng yêu cầu máy tính của bạn cài đặt công cụ liên kết FFmpeg:
