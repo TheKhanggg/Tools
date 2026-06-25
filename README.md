@@ -19,12 +19,12 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
   <tr>
     <td><strong>Định dạng</strong></td>
     <td><strong>Liên kết tải về</strong></td>
-    <td><strong>Yêu cầu hệ thống</strong></td>
+    <td><strong>Mô tả</strong></td>
   </tr>
   <tr>
     <td>📦 <strong> Multi Downloader Pro v1.2.0</strong></td>
     <td><a href="https://github.com/TheKhanggg/Tools/releases/download/v1.2.0/Multi.Downloader.Pro.exe" target="_blank"><strong>📥 Tải xuống trực tiếp (.exe)</strong></a></td>
-    <td>Windows 10 / 11 (64-bit)</td>
+    <td>Phiên bản đầu tiên</td>
   </tr>
 </table>
 
