@@ -28,7 +28,7 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
   <tr>
     <td>🚀 <strong>Multi Downloader Pro v1.2.1 Plus</strong></td>
     <td><a href="https://github.com/TheKhanggg/Tools/releases/download/v1.2.0/Multi.Downloader.Pro.v1.2.1.plus.exe" target="_blank"><strong>📥 Tải xuống trực tiếp (.exe)</strong></a></td>
-    <td>Thêm tính năng điều chỉnh độ phân giải từ 720p -> 2/4 <br> không cần cài thêm FFmpeg </td>
+    <td>Thêm tính năng điều chỉnh độ phân giải từ 720p -> 2/4K. <br> Không cần cài thêm FFmpeg </br> </td>
   </tr>
 </table>
 
