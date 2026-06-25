@@ -1,3 +1,6 @@
+# Tool
+---
+
 # 📥 Multi Downloader Pro 
 
 ![Version](https://img.shields.io/badge/Version-1.2.1--Plus-blue?style=for-the-badge)
@@ -50,7 +53,7 @@ Bạn có thể tải bản phát hành chính thức mới nhất đã mã hóa
   * Thanh tiến trình hiển thị chính xác dung lượng và phần trăm đang tải theo thời gian thực.
 * **Tự Động Lưu Cấu Configuration:** Ghi nhớ thư mục lưu mặc định và chế độ giao diện cho lần mở tiếp theo.
 
----
+
 
 
 ## 🔒 Lời Kết & Cam Kết Bảo Mật
